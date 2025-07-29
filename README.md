@@ -1,4 +1,4 @@
-# Number Guessing Game 🎯
+# PythonProjects
 
 This project contains Python-based mini-games implemented in Jupyter Notebooks.
 
